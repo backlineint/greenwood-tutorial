@@ -1,0 +1,18 @@
+{
+  "name": "greenwood",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "greenwood build",
+    "start": "greenwood develop",
+    "serve": "greenwood serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@greenwood/cli": "^0.29.2"
+  }
+}
